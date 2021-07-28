@@ -1,0 +1,87 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+.hader_section{
+    display:flex ;
+    margin-bottom: 50px;    
+}
+.fast_hader{
+      padding-top: 100px;
+    justify-content: space-around 
+}span{
+    color: rgba(251, 162, 79, 1);
+}
+.font_color{
+    color: gray;
+}
+.font_color h1{
+    font-size: xx-large;
+}
+.About_me{
+    padding-top: 100px;
+}
+.hader_width{
+    width: 50%;
+    padding-left: 5%;
+}
+.hader_width img{
+    width: 80%;
+}
+.second_section img{
+    width: 50%;
+}
+
+
+.order_button{
+     text-decoration: none;
+background-image: linear-gradient(orange , tomato);    
+ padding: 10px 40px;
+     border-radius: 20px;
+color: white;
+    font width: 700;
+}.second_banner{
+    background-image: url(images/7.png);
+}
+.contact_button{
+    text-decoration: none;
+background-image: linear-gradient(orange , tomato);    
+ padding: 10px 40px;
+     border-radius: 20px;
+color: white;
+    font width: 700;
+}
+.middle_section{
+    background-image: url(images/Frame\ 56.jpg);
+    text-align: center;
+    margin-bottom: 100px;
+}
+.recepices_box{
+    display: flex;
+    width: 100%;
+   
+      
+}
+.recepice_item{
+    margin-left: 2%;
+    margin-right: 2%; 
+    width: 30%;    
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 10%;
+    padding-left: 5px;
+}
+.recepice_item img{
+    width: 100%;
+}
+.socialmedia{
+    background-color: gray) ;
+       margin-left: 200px;}
+.socialmedia h1{
+    text-align: center;
+    justify-content: space-around
+}
+    
+ .end{
+    background-color:black;
+    text-align: center;
+    color: whitesmoke;    
+}
